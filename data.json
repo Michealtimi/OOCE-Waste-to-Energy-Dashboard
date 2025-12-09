@@ -1,0 +1,24 @@
+{
+  "submissions": [
+    {
+      "pspOperator": "CleanLagos Services",
+      "lga": "Ikeja",
+      "wasteType": "Organic",
+      "tons": 25.5,
+      "date": "2024-07-29",
+      "id": "sub-1722285600000",
+      "energyKWh": 16575,
+      "carbonCredits": 10.71
+    },
+    {
+      "pspOperator": "GreenCity Collectors",
+      "lga": "Eti-Osa",
+      "wasteType": "Mixed",
+      "tons": 42.1,
+      "date": "2024-07-28",
+      "id": "sub-1722199200000",
+      "energyKWh": 27365,
+      "carbonCredits": 17.682
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/waste-to-energy-dashboard (2)/data.json"],"sourcesContent":["{\"submissions\":[{\"pspOperator\":\"CleanLagos Services\",\"lga\":\"Ikeja\",\"wasteType\":\"Organic\",\"tons\":25.5,\"date\":\"2024-07-29\",\"id\":\"sub-1722285600000\",\"energyKWh\":16575,\"carbonCredits\":10.71},{\"pspOperator\":\"GreenCity Collectors\",\"lga\":\"Eti-Osa\",\"wasteType\":\"Mixed\",\"tons\":42.1,\"date\":\"2024-07-28\",\"id\":\"sub-1722199200000\",\"energyKWh\":27365,\"carbonCredits\":17.682}]}"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 45, "column": 387}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 49, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/emeka/Desktop/waste-to-energy-dashboard%20%282%29/app/api/submit/route.ts"],"sourcesContent":["import { NextResponse } from \"next/server\";\r\nimport * as data from '@/data.json'\r\n\r\nexport async function POST (request: Request) {\r\n    const body = await request.json();\r\n    console.log('Submitted', body);\r\n\r\n    return NextResponse.json({ success: true });\r\n}\r\n\r\nexport async function GET () {\r\n    return NextResponse.json({ success: true, data });\r\n}"],"names":[],"mappings":";;;;;;AAAA;AACA;;;AAEO,eAAe,KAAM,OAAgB;IACxC,MAAM,OAAO,MAAM,QAAQ,IAAI;IAC/B,QAAQ,GAAG,CAAC,aAAa;IAEzB,OAAO,8TAAY,CAAC,IAAI,CAAC;QAAE,SAAS;IAAK;AAC7C;AAEO,eAAe;IAClB,OAAO,8TAAY,CAAC,IAAI,CAAC;QAAE,SAAS;QAAM,MAAA;IAAK;AACnD"}}]
+}

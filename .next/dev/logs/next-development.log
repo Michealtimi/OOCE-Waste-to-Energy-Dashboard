@@ -1,0 +1,645 @@
+[00:00:16.586] Server  LOG      ✓ Ready in 10.2s
+[00:00:19.768] Server  LOG      ○ Compiling /submit ...
+[00:00:38.701] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:38.705] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:40.287] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:40.943] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:40.943] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:40.944] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:40.944] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:00:41.441] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:41.442] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:41.442] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765298312901}
+[00:00:42.806] Browser ERROR   Failed to fetch submissions: {}
+[00:00:47.713] Server  LOG     Submitted {}
+[00:00:47.872] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Badagry","pspOperator":"GreenCity Collectors","tons":6.5,"wasteType":"Inert"}}
+[00:00:47.872] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Badagry","pspOperator":"GreenCity Collectors","tons":6.5,"wasteType":"Inert"}
+[00:00:47.872] Browser LOG     Submission successful, received: {"success":true}
+[00:00:47.872] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'date')
+[00:10:55.697] Server  LOG      ✓ Compiled in 999ms
+[00:10:56.943] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:10:58.008] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:10:58.026] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:02.167] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:03.739] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:03.739] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:03.739] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:03.739] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:04.803] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:11:04.803] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:11:04.803] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765298936364}
+[00:11:08.145] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:08.148] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.212] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:10.537] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.537] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.537] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:10.537] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:11.756] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:11:11.756] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:11:11.756] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765298943304}
+[00:11:17.070] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ikeja","pspOperator":"CleanLagos Services","tons":16.1,"wasteType":"Inert"}}
+[00:11:17.070] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ikeja","pspOperator":"CleanLagos Services","tons":16.1,"wasteType":"Inert"}
+[00:11:17.070] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Agege","pspOperator":"Urban Sanitation Ltd","tons":11.4,"wasteType":"Plastic"}}
+[00:11:17.070] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Agege","pspOperator":"Urban Sanitation Ltd","tons":11.4,"wasteType":"Plastic"}
+[00:11:17.070] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.7620000000000005,"date":"2025-12-09","energyKWh":10465.000000000002,"id":"sub-1765298948176","lga":"Ikeja","pspOperator":"CleanLagos Services","tons":16.1,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:11:17.707] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.788,"date":"2025-12-09","energyKWh":7410,"id":"sub-1765298948242","lga":"Agege","pspOperator":"Urban Sanitation Ltd","tons":11.4,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:11:23.083] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Agege","pspOperator":"Urban Sanitation Ltd","tons":11.4,"wasteType":"Plastic"}}
+[00:11:23.083] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Agege","pspOperator":"Urban Sanitation Ltd","tons":11.4,"wasteType":"Plastic"}
+[00:11:23.084] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"GreenCity Collectors","tons":5.6,"wasteType":"Mixed"}}
+[00:11:23.084] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"GreenCity Collectors","tons":5.6,"wasteType":"Mixed"}
+[00:11:23.084] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.788,"date":"2025-12-09","energyKWh":7410,"id":"sub-1765298954323","lga":"Agege","pspOperator":"Urban Sanitation Ltd","tons":11.4,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:11:23.525] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.352,"date":"2025-12-09","energyKWh":3639.9999999999995,"id":"sub-1765298954345","lga":"Lagos Mainland","pspOperator":"GreenCity Collectors","tons":5.6,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:11:24.800] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/submit color: rgb(120, 120, 120) color: inherit {"dp":"/submit","o":"http://localhost:3000/submit","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765298955695}
+[00:11:38.874] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":70,"wasteType":"Plastic"}}
+[00:11:38.875] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":70,"wasteType":"Plastic"}
+[00:11:38.875] Browser LOG     Submission successful, received: {"data":{"carbonCredits":29.4,"date":"2025-12-09","energyKWh":45500,"id":"sub-1765298970321","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":70,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:11:42.385] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:42.385] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:42.385] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:42.385] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:11:42.919] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765298974224}
+[00:11:48.063] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"}}
+[00:11:48.063] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"}
+[00:11:48.063] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.216,"date":"2025-12-09","energyKWh":9620,"id":"sub-1765298979306","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:11:53.532] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"}}
+[00:11:53.532] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"}
+[00:11:53.532] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"}}
+[00:11:53.532] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"}
+[00:11:53.532] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.216,"date":"2025-12-09","energyKWh":9620,"id":"sub-1765298984712","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:11:54.146] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.216,"date":"2025-12-09","energyKWh":9620,"id":"sub-1765298984784","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":14.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:11:59.612] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ikeja","pspOperator":"WasteNet Solutions","tons":15.1,"wasteType":"Inert"}}
+[00:11:59.612] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ikeja","pspOperator":"WasteNet Solutions","tons":15.1,"wasteType":"Inert"}
+[00:11:59.612] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Agege","pspOperator":"CleanLagos Services","tons":6.2,"wasteType":"Plastic"}}
+[00:11:59.612] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Agege","pspOperator":"CleanLagos Services","tons":6.2,"wasteType":"Plastic"}
+[00:11:59.612] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.342,"date":"2025-12-09","energyKWh":9815,"id":"sub-1765298990793","lga":"Ikeja","pspOperator":"WasteNet Solutions","tons":15.1,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:12:00.049] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.604,"date":"2025-12-09","energyKWh":4030,"id":"sub-1765298990869","lga":"Agege","pspOperator":"CleanLagos Services","tons":6.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:12:05.451] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":5.2,"wasteType":"Plastic"}}
+[00:12:05.451] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":5.2,"wasteType":"Plastic"}
+[00:12:05.451] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.184,"date":"2025-12-09","energyKWh":3380,"id":"sub-1765298996708","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":5.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:12:10.828] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"GreenCity Collectors","tons":9.7,"wasteType":"Plastic"}}
+[00:12:10.828] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"GreenCity Collectors","tons":9.7,"wasteType":"Plastic"}
+[00:12:10.829] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Agege","pspOperator":"CleanLagos Services","tons":6.2,"wasteType":"Plastic"}}
+[00:12:10.829] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Agege","pspOperator":"CleanLagos Services","tons":6.2,"wasteType":"Plastic"}
+[00:12:10.829] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.074,"date":"2025-12-09","energyKWh":6304.999999999999,"id":"sub-1765299002102","lga":"Eti-Osa","pspOperator":"GreenCity Collectors","tons":9.7,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:12:11.343] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.604,"date":"2025-12-09","energyKWh":4030,"id":"sub-1765299002155","lga":"Agege","pspOperator":"CleanLagos Services","tons":6.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:12:13.637] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/submit color: rgb(120, 120, 120) color: inherit {"dp":"/submit","o":"http://localhost:3000/submit","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299004893}
+[00:12:33.704] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ojo","pspOperator":"CleanLagos Services","tons":88.8,"wasteType":"Plastic"}}
+[00:12:33.704] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ojo","pspOperator":"CleanLagos Services","tons":88.8,"wasteType":"Plastic"}
+[00:12:33.704] Browser LOG     Submission successful, received: {"data":{"carbonCredits":37.296,"date":"2025-12-09","energyKWh":57720,"id":"sub-1765299025135","lga":"Ojo","pspOperator":"CleanLagos Services","tons":88.8,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:12:38.852] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:38.852] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:38.852] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:38.852] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:39.337] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299030651}
+[00:12:44.501] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Agege","pspOperator":"EcoWaste Management","tons":10.5,"wasteType":"Mixed"}}
+[00:12:44.501] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Agege","pspOperator":"EcoWaste Management","tons":10.5,"wasteType":"Mixed"}
+[00:12:44.502] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":13.6,"wasteType":"Inert"}}
+[00:12:44.502] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":13.6,"wasteType":"Inert"}
+[00:12:44.502] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.41,"date":"2025-12-09","energyKWh":6825,"id":"sub-1765299035790","lga":"Agege","pspOperator":"EcoWaste Management","tons":10.5,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:12:44.869] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.712,"date":"2025-12-09","energyKWh":8840,"id":"sub-1765299035827","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":13.6,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:12:50.189] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ibeju-Lekki","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Plastic"}}
+[00:12:50.189] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ibeju-Lekki","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Plastic"}
+[00:12:50.189] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.307999999999999,"date":"2025-12-09","energyKWh":11309.999999999998,"id":"sub-1765299041496","lga":"Ibeju-Lekki","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:13:15.575] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Badagry","pspOperator":"CleanLagos Services","tons":8.5,"wasteType":"Inert"}}
+[00:13:15.575] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Badagry","pspOperator":"CleanLagos Services","tons":8.5,"wasteType":"Inert"}
+[00:13:15.575] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.57,"date":"2025-12-09","energyKWh":5525,"id":"sub-1765299066856","lga":"Badagry","pspOperator":"CleanLagos Services","tons":8.5,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:13:21.007] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":13.9,"wasteType":"Inert"}}
+[00:13:21.007] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":13.9,"wasteType":"Inert"}
+[00:13:21.007] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.838,"date":"2025-12-09","energyKWh":9035,"id":"sub-1765299072216","lga":"Amuwo-Odofin","pspOperator":"Urban Sanitation Ltd","tons":13.9,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:13:24.388] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/submit color: rgb(120, 120, 120) color: inherit {"dp":"/submit","o":"http://localhost:3000/submit","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299075667}
+[00:13:44.134] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Surulere","pspOperator":"GreenCity Collectors","tons":66,"wasteType":"Mixed"}}
+[00:13:44.134] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Surulere","pspOperator":"GreenCity Collectors","tons":66,"wasteType":"Mixed"}
+[00:13:44.134] Browser LOG     Submission successful, received: {"data":{"carbonCredits":27.72,"date":"2025-12-09","energyKWh":42900,"id":"sub-1765299095551","lga":"Surulere","pspOperator":"GreenCity Collectors","tons":66,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:13:52.952] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:13:52.952] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:13:52.952] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:13:52.952] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:13:53.507] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299104739}
+[00:14:08.567] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ikorodu","pspOperator":"WasteNet Solutions","tons":16.9,"wasteType":"Organic"}}
+[00:14:08.567] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ikorodu","pspOperator":"WasteNet Solutions","tons":16.9,"wasteType":"Organic"}
+[00:14:08.567] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.097999999999999,"date":"2025-12-09","energyKWh":10984.999999999998,"id":"sub-1765299119861","lga":"Ikorodu","pspOperator":"WasteNet Solutions","tons":16.9,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:14:13.902] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Badagry","pspOperator":"WasteNet Solutions","tons":10.1,"wasteType":"Inert"}}
+[00:14:13.902] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Badagry","pspOperator":"WasteNet Solutions","tons":10.1,"wasteType":"Inert"}
+[00:14:13.902] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.242,"date":"2025-12-09","energyKWh":6565,"id":"sub-1765299125218","lga":"Badagry","pspOperator":"WasteNet Solutions","tons":10.1,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:14:19.316] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Surulere","pspOperator":"EcoWaste Management","tons":8.5,"wasteType":"Organic"}}
+[00:14:19.316] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Surulere","pspOperator":"EcoWaste Management","tons":8.5,"wasteType":"Organic"}
+[00:14:19.316] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.57,"date":"2025-12-09","energyKWh":5525,"id":"sub-1765299130553","lga":"Surulere","pspOperator":"EcoWaste Management","tons":8.5,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:14:46.029] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Mushin","pspOperator":"WasteNet Solutions","tons":7.6,"wasteType":"Organic"}}
+[00:14:46.029] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Mushin","pspOperator":"WasteNet Solutions","tons":7.6,"wasteType":"Organic"}
+[00:14:46.029] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Surulere","pspOperator":"EcoWaste Management","tons":8.5,"wasteType":"Organic"}}
+[00:14:46.029] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Surulere","pspOperator":"EcoWaste Management","tons":8.5,"wasteType":"Organic"}
+[00:14:46.029] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.1919999999999997,"date":"2025-12-09","energyKWh":4940,"id":"sub-1765299156749","lga":"Mushin","pspOperator":"WasteNet Solutions","tons":7.6,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:14:46.029] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.57,"date":"2025-12-09","energyKWh":5525,"id":"sub-1765299156761","lga":"Surulere","pspOperator":"EcoWaste Management","tons":8.5,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:14:50.715] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Island","pspOperator":"CleanLagos Services","tons":10.5,"wasteType":"Plastic"}}
+[00:14:50.715] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Island","pspOperator":"CleanLagos Services","tons":10.5,"wasteType":"Plastic"}
+[00:14:51.091] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.41,"date":"2025-12-09","energyKWh":6825,"id":"sub-1765299162300","lga":"Lagos Island","pspOperator":"CleanLagos Services","tons":10.5,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:14:56.491] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Island","pspOperator":"CleanLagos Services","tons":10.5,"wasteType":"Plastic"}}
+[00:14:56.492] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Island","pspOperator":"CleanLagos Services","tons":10.5,"wasteType":"Plastic"}
+[00:14:56.492] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.41,"date":"2025-12-09","energyKWh":6825,"id":"sub-1765299167747","lga":"Lagos Island","pspOperator":"CleanLagos Services","tons":10.5,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:14:57.470] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/submit color: rgb(120, 120, 120) color: inherit {"dp":"/submit","o":"http://localhost:3000/submit","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299168375}
+[00:15:19.052] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ojo","pspOperator":"Urban Sanitation Ltd","tons":800,"wasteType":"Inert"}}
+[00:15:19.053] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ojo","pspOperator":"Urban Sanitation Ltd","tons":800,"wasteType":"Inert"}
+[00:15:19.053] Browser LOG     Submission successful, received: {"data":{"carbonCredits":336,"date":"2025-12-09","energyKWh":520000,"id":"sub-1765299190475","lga":"Ojo","pspOperator":"Urban Sanitation Ltd","tons":800,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:15:26.690] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:15:26.690] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:15:26.690] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:15:26.690] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:15:27.284] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299198540}
+[00:15:42.902] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":9.6,"wasteType":"Organic"}}
+[00:15:42.902] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":9.6,"wasteType":"Organic"}
+[00:15:42.902] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Mushin","pspOperator":"WasteNet Solutions","tons":15.8,"wasteType":"Plastic"}}
+[00:15:42.902] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Mushin","pspOperator":"WasteNet Solutions","tons":15.8,"wasteType":"Plastic"}
+[00:15:42.903] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.032,"date":"2025-12-09","energyKWh":6240,"id":"sub-1765299213660","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":9.6,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:15:42.903] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.636,"date":"2025-12-09","energyKWh":10270,"id":"sub-1765299213684","lga":"Mushin","pspOperator":"WasteNet Solutions","tons":15.8,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:15:48.171] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":15,"wasteType":"Plastic"}}
+[00:15:48.171] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":15,"wasteType":"Plastic"}
+[00:15:48.171] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.3,"date":"2025-12-09","energyKWh":9750,"id":"sub-1765299219494","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":15,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:15:59.724] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/submit color: rgb(120, 120, 120) color: inherit {"dp":"/submit","o":"http://localhost:3000/submit","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299230903}
+[00:16:22.706] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Amuwo-Odofin","pspOperator":"WasteNet Solutions","tons":90000,"wasteType":"Plastic"}}
+[00:16:22.707] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Amuwo-Odofin","pspOperator":"WasteNet Solutions","tons":90000,"wasteType":"Plastic"}
+[00:16:22.707] Browser LOG     Submission successful, received: {"data":{"carbonCredits":37800,"date":"2025-12-09","energyKWh":58500000,"id":"sub-1765299254133","lga":"Amuwo-Odofin","pspOperator":"WasteNet Solutions","tons":90000,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:16:25.620] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:16:25.620] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:16:25.620] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:16:25.620] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:16:26.099] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299257444}
+[00:16:31.328] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.2,"wasteType":"Inert"}}
+[00:16:31.328] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.2,"wasteType":"Inert"}
+[00:16:31.328] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.2,"wasteType":"Inert"}}
+[00:16:31.328] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.2,"wasteType":"Inert"}
+[00:16:31.328] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.604,"date":"2025-12-09","energyKWh":4030,"id":"sub-1765299262539","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.2,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:16:31.328] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.604,"date":"2025-12-09","energyKWh":4030,"id":"sub-1765299262561","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.2,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:16:38.027] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"}}
+[00:16:38.028] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"}
+[00:16:38.028] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.8639999999999994,"date":"2025-12-09","energyKWh":5979.999999999999,"id":"sub-1765299268737","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:16:44.032] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"}}
+[00:16:44.032] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"}
+[00:16:44.032] Browser LOG     Submission successful, received: {"data":{"carbonCredits":8.357999999999999,"date":"2025-12-09","energyKWh":12934.999999999998,"id":"sub-1765299274736","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:16:54.345] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"}}
+[00:16:54.345] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"}
+[00:16:54.345] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"}}
+[00:16:54.345] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"}
+[00:16:54.345] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.8639999999999994,"date":"2025-12-09","energyKWh":5979.999999999999,"id":"sub-1765299285513","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:16:54.730] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.8639999999999994,"date":"2025-12-09","energyKWh":5979.999999999999,"id":"sub-1765299285622","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:17:00.161] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":5.1,"wasteType":"Organic"}}
+[00:17:00.161] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":5.1,"wasteType":"Organic"}
+[00:17:00.161] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"}}
+[00:17:00.161] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"}
+[00:17:00.161] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.142,"date":"2025-12-09","energyKWh":3314.9999999999995,"id":"sub-1765299291387","lga":"Epe","pspOperator":"EcoWaste Management","tons":5.1,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:17:00.507] Browser LOG     Submission successful, received: {"data":{"carbonCredits":8.357999999999999,"date":"2025-12-09","energyKWh":12934.999999999998,"id":"sub-1765299291465","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:17:20.880] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":7,"wasteType":"Plastic"}}
+[00:17:20.880] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":7,"wasteType":"Plastic"}
+[00:17:20.880] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":17,"wasteType":"Organic"}}
+[00:17:20.880] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":17,"wasteType":"Organic"}
+[00:17:20.880] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":17,"wasteType":"Organic"}}
+[00:17:20.880] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":17,"wasteType":"Organic"}
+[00:17:20.880] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":7,"wasteType":"Plastic"}}
+[00:17:20.880] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":7,"wasteType":"Plastic"}
+[00:17:22.209] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.94,"date":"2025-12-09","energyKWh":4550,"id":"sub-1765299312628","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":7,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:17:22.209] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.14,"date":"2025-12-09","energyKWh":11050,"id":"sub-1765299312854","lga":"Epe","pspOperator":"EcoWaste Management","tons":17,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:17:22.209] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.94,"date":"2025-12-09","energyKWh":4550,"id":"sub-1765299313275","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":7,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:17:22.549] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.14,"date":"2025-12-09","energyKWh":11050,"id":"sub-1765299313655","lga":"Epe","pspOperator":"EcoWaste Management","tons":17,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:17:28.270] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":9,"wasteType":"Organic"}}
+[00:17:28.271] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":9,"wasteType":"Organic"}
+[00:17:28.271] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":9,"wasteType":"Organic"}}
+[00:17:28.271] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":9,"wasteType":"Organic"}
+[00:17:28.271] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.78,"date":"2025-12-09","energyKWh":5850,"id":"sub-1765299319474","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":9,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:17:28.533] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.78,"date":"2025-12-09","energyKWh":5850,"id":"sub-1765299319820","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":9,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:17:33.904] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"GreenCity Collectors","tons":9.2,"wasteType":"Plastic"}}
+[00:17:33.904] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"GreenCity Collectors","tons":9.2,"wasteType":"Plastic"}
+[00:17:33.905] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.8639999999999994,"date":"2025-12-09","energyKWh":5979.999999999999,"id":"sub-1765299325203","lga":"Epe","pspOperator":"GreenCity Collectors","tons":9.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:17:39.009] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":11.9,"wasteType":"Inert"}}
+[00:17:39.009] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":11.9,"wasteType":"Inert"}
+[00:17:39.335] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.998,"date":"2025-12-09","energyKWh":7735,"id":"sub-1765299330593","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":11.9,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:17:44.695] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":11.9,"wasteType":"Inert"}}
+[00:17:44.695] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":11.9,"wasteType":"Inert"}
+[00:17:44.695] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":18.1,"wasteType":"Organic"}}
+[00:17:44.695] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":18.1,"wasteType":"Organic"}
+[00:17:44.695] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"}}
+[00:17:44.695] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"}
+[00:17:44.695] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.998,"date":"2025-12-09","energyKWh":7735,"id":"sub-1765299336024","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":11.9,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:17:44.975] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.602,"date":"2025-12-09","energyKWh":11765.000000000002,"id":"sub-1765299336060","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":18.1,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:17:44.975] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.6119999999999997,"date":"2025-12-09","energyKWh":5590,"id":"sub-1765299336109","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:17:55.270] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"}}
+[00:17:55.270] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"}
+[00:17:55.270] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"}}
+[00:17:55.270] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"}
+[00:17:55.271] Browser LOG     Submission successful, received: {"data":{"carbonCredits":8.357999999999999,"date":"2025-12-09","energyKWh":12934.999999999998,"id":"sub-1765299346636","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:17:55.540] Browser LOG     Submission successful, received: {"data":{"carbonCredits":8.357999999999999,"date":"2025-12-09","energyKWh":12934.999999999998,"id":"sub-1765299346678","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.9,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:18:12.034] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":10.6,"wasteType":"Plastic"}}
+[00:18:12.034] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":10.6,"wasteType":"Plastic"}
+[00:18:12.034] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.452,"date":"2025-12-09","energyKWh":6890,"id":"sub-1765299362724","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":10.6,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:18:18.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"GreenCity Collectors","tons":9.2,"wasteType":"Plastic"}}
+[00:18:18.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"GreenCity Collectors","tons":9.2,"wasteType":"Plastic"}
+[00:18:18.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":16.8,"wasteType":"Organic"}}
+[00:18:18.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":16.8,"wasteType":"Organic"}
+[00:18:18.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"}}
+[00:18:18.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"}
+[00:18:18.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.8639999999999994,"date":"2025-12-09","energyKWh":5979.999999999999,"id":"sub-1765299368716","lga":"Epe","pspOperator":"GreenCity Collectors","tons":9.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:18:18.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.056,"date":"2025-12-09","energyKWh":10920,"id":"sub-1765299368731","lga":"Epe","pspOperator":"EcoWaste Management","tons":16.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:18:18.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.998,"date":"2025-12-09","energyKWh":7735,"id":"sub-1765299368744","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:18:29.036] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"}}
+[00:18:29.036] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"}
+[00:18:29.036] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":16.8,"wasteType":"Organic"}}
+[00:18:29.036] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":16.8,"wasteType":"Organic"}
+[00:18:29.037] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.998,"date":"2025-12-09","energyKWh":7735,"id":"sub-1765299379723","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:18:29.037] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.056,"date":"2025-12-09","energyKWh":10920,"id":"sub-1765299379737","lga":"Epe","pspOperator":"EcoWaste Management","tons":16.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:18:35.042] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Mixed"}}
+[00:18:35.042] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Mixed"}
+[00:18:35.043] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.307999999999999,"date":"2025-12-09","energyKWh":11309.999999999998,"id":"sub-1765299385719","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:18:41.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"}}
+[00:18:41.039] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"}
+[00:18:41.039] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.8639999999999994,"date":"2025-12-09","energyKWh":5979.999999999999,"id":"sub-1765299391715","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":9.2,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:18:47.033] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"}}
+[00:18:47.034] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"}
+[00:18:47.034] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.6119999999999997,"date":"2025-12-09","energyKWh":5590,"id":"sub-1765299397710","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:18:53.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Mixed"}}
+[00:18:53.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Mixed"}
+[00:18:53.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"}}
+[00:18:53.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"}
+[00:18:53.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"}}
+[00:18:53.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"}
+[00:18:53.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.307999999999999,"date":"2025-12-09","energyKWh":11309.999999999998,"id":"sub-1765299403714","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":17.4,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:18:53.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.998,"date":"2025-12-09","energyKWh":7735,"id":"sub-1765299403730","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:18:53.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.998,"date":"2025-12-09","energyKWh":7735,"id":"sub-1765299403744","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.9,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:18:59.032] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"}}
+[00:18:59.032] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"}
+[00:18:59.032] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.6119999999999997,"date":"2025-12-09","energyKWh":5590,"id":"sub-1765299409715","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8.6,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:19:25.030] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":13.9,"wasteType":"Mixed"}}
+[00:19:25.030] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":13.9,"wasteType":"Mixed"}
+[00:19:25.030] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.838,"date":"2025-12-09","energyKWh":9035,"id":"sub-1765299435719","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":13.9,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:19:31.033] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":9.4,"wasteType":"Inert"}}
+[00:19:31.033] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":9.4,"wasteType":"Inert"}
+[00:19:31.033] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":9.4,"wasteType":"Inert"}}
+[00:19:31.033] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":9.4,"wasteType":"Inert"}
+[00:19:31.033] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.948,"date":"2025-12-09","energyKWh":6110,"id":"sub-1765299441723","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":9.4,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:19:31.033] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.948,"date":"2025-12-09","energyKWh":6110,"id":"sub-1765299441738","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":9.4,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:19:42.032] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":7.8,"wasteType":"Organic"}}
+[00:19:42.032] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":7.8,"wasteType":"Organic"}
+[00:19:42.032] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.276,"date":"2025-12-09","energyKWh":5070,"id":"sub-1765299452715","lga":"Epe","pspOperator":"EcoWaste Management","tons":7.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:19:48.030] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.8,"wasteType":"Organic"}}
+[00:19:48.030] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.8,"wasteType":"Organic"}
+[00:19:48.030] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":13.9,"wasteType":"Mixed"}}
+[00:19:48.030] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":13.9,"wasteType":"Mixed"}
+[00:19:48.030] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.8,"wasteType":"Organic"}}
+[00:19:48.030] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.8,"wasteType":"Organic"}
+[00:19:48.030] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.956,"date":"2025-12-09","energyKWh":7670.000000000001,"id":"sub-1765299458730","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:19:48.030] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.838,"date":"2025-12-09","energyKWh":9035,"id":"sub-1765299458750","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":13.9,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:19:48.030] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.956,"date":"2025-12-09","energyKWh":7670.000000000001,"id":"sub-1765299458797","lga":"Kosofe","pspOperator":"EcoWaste Management","tons":11.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:20:04.037] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Plastic"}}
+[00:20:04.037] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Plastic"}
+[00:20:04.037] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Mixed"}}
+[00:20:04.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Mixed"}
+[00:20:04.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.814,"date":"2025-12-09","energyKWh":4355,"id":"sub-1765299474727","lga":"Epe","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:20:04.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.814,"date":"2025-12-09","energyKWh":4355,"id":"sub-1765299474747","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:20:10.039] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Plastic"}}
+[00:20:10.039] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Plastic"}
+[00:20:10.040] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.814,"date":"2025-12-09","energyKWh":4355,"id":"sub-1765299480727","lga":"Epe","pspOperator":"GreenCity Collectors","tons":6.7,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:20:16.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":6.2,"wasteType":"Organic"}}
+[00:20:16.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":6.2,"wasteType":"Organic"}
+[00:20:16.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.604,"date":"2025-12-09","energyKWh":4030,"id":"sub-1765299486733","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":6.2,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:20:32.040] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":5,"wasteType":"Plastic"}}
+[00:20:32.040] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":5,"wasteType":"Plastic"}
+[00:20:32.040] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.1,"date":"2025-12-09","energyKWh":3250,"id":"sub-1765299502742","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":5,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:20:38.043] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":12.6,"wasteType":"Organic"}}
+[00:20:38.043] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":12.6,"wasteType":"Organic"}
+[00:20:38.044] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.292,"date":"2025-12-09","energyKWh":8190,"id":"sub-1765299508725","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":12.6,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:20:44.041] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.4,"wasteType":"Mixed"}}
+[00:20:44.041] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.4,"wasteType":"Mixed"}
+[00:20:44.041] Browser LOG     Submission successful, received: {"data":{"carbonCredits":8.148,"date":"2025-12-09","energyKWh":12609.999999999998,"id":"sub-1765299514748","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":19.4,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:21:00.043] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Organic"}}
+[00:21:00.043] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Organic"}
+[00:21:00.043] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.36,"date":"2025-12-09","energyKWh":5200,"id":"sub-1765299530740","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:21:16.041] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":10.2,"wasteType":"Plastic"}}
+[00:21:16.041] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":10.2,"wasteType":"Plastic"}
+[00:21:16.041] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.284,"date":"2025-12-09","energyKWh":6629.999999999999,"id":"sub-1765299546727","lga":"Shomolu","pspOperator":"GreenCity Collectors","tons":10.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:21:22.039] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":12.6,"wasteType":"Organic"}}
+[00:21:22.040] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":12.6,"wasteType":"Organic"}
+[00:21:22.040] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"}}
+[00:21:22.040] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"}
+[00:21:22.040] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.292,"date":"2025-12-09","energyKWh":8190,"id":"sub-1765299552722","lga":"Eti-Osa","pspOperator":"WasteNet Solutions","tons":12.6,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:21:22.040] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.814,"date":"2025-12-09","energyKWh":4355,"id":"sub-1765299552739","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:21:28.044] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"}}
+[00:21:28.044] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"}
+[00:21:28.044] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Organic"}}
+[00:21:28.044] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Organic"}
+[00:21:28.044] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"}}
+[00:21:28.044] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"}
+[00:21:28.044] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.814,"date":"2025-12-09","energyKWh":4355,"id":"sub-1765299558728","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:21:28.045] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.36,"date":"2025-12-09","energyKWh":5200,"id":"sub-1765299558741","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:21:28.045] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.814,"date":"2025-12-09","energyKWh":4355,"id":"sub-1765299558758","lga":"Ajeromi-Ifelodun","pspOperator":"WasteNet Solutions","tons":6.7,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:21:44.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":12.4,"wasteType":"Mixed"}}
+[00:21:44.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":12.4,"wasteType":"Mixed"}
+[00:21:44.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.208,"date":"2025-12-09","energyKWh":8060,"id":"sub-1765299574729","lga":"Alimosho","pspOperator":"GreenCity Collectors","tons":12.4,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:21:57.780] Server  LOG      ✓ Compiled in 1259ms
+[00:21:59.034] Browser ERROR   uncaughtError: ReferenceError: MetricCard is not defined
+[00:24:56.527] Server  LOG      ✓ Compiled in 1294ms
+[00:25:00.352] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:02.602] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:02.608] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:02.949] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:02.949] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:02.949] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:02.949] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:02.949] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299772837}
+[00:25:07.395] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:07.666] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:07.666] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:07.666] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:07.666] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:10.006] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:25:10.006] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:25:10.006] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299781493}
+[00:25:14.271] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":7.8,"wasteType":"Mixed"}}
+[00:25:14.271] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":7.8,"wasteType":"Mixed"}
+[00:25:14.684] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.276,"date":"2025-12-09","energyKWh":5070,"id":"sub-1765299786108","lga":"Ajeromi-Ifelodun","pspOperator":"EcoWaste Management","tons":7.8,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:25:24.872] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"}}
+[00:25:24.872] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"}
+[00:25:24.872] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Apapa","pspOperator":"Urban Sanitation Ltd","tons":15.7,"wasteType":"Organic"}}
+[00:25:24.872] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Apapa","pspOperator":"Urban Sanitation Ltd","tons":15.7,"wasteType":"Organic"}
+[00:25:24.872] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.276,"date":"2025-12-09","energyKWh":5070,"id":"sub-1765299796332","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:25:25.047] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.593999999999999,"date":"2025-12-09","energyKWh":10205,"id":"sub-1765299796353","lga":"Apapa","pspOperator":"Urban Sanitation Ltd","tons":15.7,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:25:30.294] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"}}
+[00:25:30.294] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"}
+[00:25:30.294] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"}}
+[00:25:30.294] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"}
+[00:25:30.294] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.276,"date":"2025-12-09","energyKWh":5070,"id":"sub-1765299801710","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:25:30.529] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.276,"date":"2025-12-09","energyKWh":5070,"id":"sub-1765299801749","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":7.8,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:25:32.815] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/submit color: rgb(120, 120, 120) color: inherit {"dp":"/submit","o":"http://localhost:3000/submit","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299804279}
+[00:25:45.045] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"EcoWaste Management","tons":50,"wasteType":"Mixed"}}
+[00:25:45.045] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"EcoWaste Management","tons":50,"wasteType":"Mixed"}
+[00:25:45.045] Browser LOG     Submission successful, received: {"data":{"carbonCredits":21,"date":"2025-12-09","energyKWh":32500,"id":"sub-1765299816597","lga":"Shomolu","pspOperator":"EcoWaste Management","tons":50,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:25:47.863] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:47.863] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:47.863] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:47.863] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:48.209] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299819593}
+[00:25:53.530] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:53.536] Server  WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:54.404] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:54.890] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:54.890] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:54.890] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:54.890] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:55.227] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:25:55.227] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:25:55.227] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299826772}
+[00:26:00.238] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Alimosho","pspOperator":"WasteNet Solutions","tons":12.2,"wasteType":"Inert"}}
+[00:26:00.238] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Alimosho","pspOperator":"WasteNet Solutions","tons":12.2,"wasteType":"Inert"}
+[00:26:00.238] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":14.2,"wasteType":"Plastic"}}
+[00:26:00.238] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":14.2,"wasteType":"Plastic"}
+[00:26:00.238] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.124,"date":"2025-12-09","energyKWh":7929.999999999999,"id":"sub-1765299831697","lga":"Alimosho","pspOperator":"WasteNet Solutions","tons":12.2,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:26:00.437] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.9639999999999995,"date":"2025-12-09","energyKWh":9230,"id":"sub-1765299831727","lga":"Epe","pspOperator":"EcoWaste Management","tons":14.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:26:15.659] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"GreenCity Collectors","tons":12.2,"wasteType":"Organic"}}
+[00:26:15.659] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"GreenCity Collectors","tons":12.2,"wasteType":"Organic"}
+[00:26:15.659] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":14.2,"wasteType":"Plastic"}}
+[00:26:15.659] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Epe","pspOperator":"EcoWaste Management","tons":14.2,"wasteType":"Plastic"}
+[00:26:15.659] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.124,"date":"2025-12-09","energyKWh":7929.999999999999,"id":"sub-1765299847130","lga":"Ajeromi-Ifelodun","pspOperator":"GreenCity Collectors","tons":12.2,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:26:15.801] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.9639999999999995,"date":"2025-12-09","energyKWh":9230,"id":"sub-1765299847159","lga":"Epe","pspOperator":"EcoWaste Management","tons":14.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:26:20.985] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ikorodu","pspOperator":"Urban Sanitation Ltd","tons":16.4,"wasteType":"Mixed"}}
+[00:26:20.986] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ikorodu","pspOperator":"Urban Sanitation Ltd","tons":16.4,"wasteType":"Mixed"}
+[00:26:20.986] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ikorodu","pspOperator":"Urban Sanitation Ltd","tons":16.4,"wasteType":"Mixed"}}
+[00:26:20.986] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ikorodu","pspOperator":"Urban Sanitation Ltd","tons":16.4,"wasteType":"Mixed"}
+[00:26:20.986] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.887999999999999,"date":"2025-12-09","energyKWh":10659.999999999998,"id":"sub-1765299852445","lga":"Ikorodu","pspOperator":"Urban Sanitation Ltd","tons":16.4,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:26:21.153] Browser LOG     Submission successful, received: {"data":{"carbonCredits":6.887999999999999,"date":"2025-12-09","energyKWh":10659.999999999998,"id":"sub-1765299852479","lga":"Ikorodu","pspOperator":"Urban Sanitation Ltd","tons":16.4,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:26:26.343] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":11.2,"wasteType":"Plastic"}}
+[00:26:26.343] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":11.2,"wasteType":"Plastic"}
+[00:26:26.343] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":11.2,"wasteType":"Plastic"}}
+[00:26:26.343] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":11.2,"wasteType":"Plastic"}
+[00:26:26.343] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.704,"date":"2025-12-09","energyKWh":7279.999999999999,"id":"sub-1765299857812","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":11.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:26:26.543] Browser LOG     Submission successful, received: {"data":{"carbonCredits":4.704,"date":"2025-12-09","energyKWh":7279.999999999999,"id":"sub-1765299857838","lga":"Lagos Mainland","pspOperator":"WasteNet Solutions","tons":11.2,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:26:37.129] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"GreenCity Collectors","tons":12.2,"wasteType":"Organic"}}
+[00:26:37.129] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ajeromi-Ifelodun","pspOperator":"GreenCity Collectors","tons":12.2,"wasteType":"Organic"}
+[00:26:37.129] Browser LOG     Submission successful, received: {"data":{"carbonCredits":5.124,"date":"2025-12-09","energyKWh":7929.999999999999,"id":"sub-1765299868194","lga":"Ajeromi-Ifelodun","pspOperator":"GreenCity Collectors","tons":12.2,"wasteType":"Organic"},"message":"Submission successful!"}
+[00:26:37.526] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/login color: rgb(120, 120, 120) color: inherit {"dp":"/login","o":"http://localhost:3000/login","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299869089}
+[00:26:44.591] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:26:44.591] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:26:44.591] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:26:44.591] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:26:44.591] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1765299876080}
+[00:26:49.781] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"}}
+[00:26:49.782] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"}
+[00:26:49.782] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.013999999999999,"date":"2025-12-09","energyKWh":10855,"id":"sub-1765299881172","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:26:54.914] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"}}
+[00:26:54.914] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"}
+[00:26:54.914] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.78,"date":"2025-12-09","energyKWh":5850,"id":"sub-1765299886399","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:27:00.057] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Ibeju-Lekki","pspOperator":"WasteNet Solutions","tons":8.9,"wasteType":"Inert"}}
+[00:27:00.057] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Ibeju-Lekki","pspOperator":"WasteNet Solutions","tons":8.9,"wasteType":"Inert"}
+[00:27:00.057] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"}}
+[00:27:00.057] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"}
+[00:27:00.057] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.738,"date":"2025-12-09","energyKWh":5785,"id":"sub-1765299891547","lga":"Ibeju-Lekki","pspOperator":"WasteNet Solutions","tons":8.9,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:27:00.212] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.896,"date":"2025-12-09","energyKWh":12220,"id":"sub-1765299891578","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:27:12.036] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"}}
+[00:27:12.036] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"}
+[00:27:12.037] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.013999999999999,"date":"2025-12-09","energyKWh":10855,"id":"sub-1765299902726","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:27:18.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"}}
+[00:27:18.039] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"}
+[00:27:18.039] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.013999999999999,"date":"2025-12-09","energyKWh":10855,"id":"sub-1765299908732","lga":"Mushin","pspOperator":"Urban Sanitation Ltd","tons":16.7,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:27:24.042] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":5.5,"wasteType":"Plastic"}}
+[00:27:24.042] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":5.5,"wasteType":"Plastic"}
+[00:27:24.042] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Inert"}}
+[00:27:24.042] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Lagos Mainland","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Inert"}
+[00:27:24.043] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"}}
+[00:27:24.043] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"}
+[00:27:24.043] Browser LOG     Submission successful, received: {"data":{"carbonCredits":2.31,"date":"2025-12-09","energyKWh":3575,"id":"sub-1765299914728","lga":"Shomolu","pspOperator":"Urban Sanitation Ltd","tons":5.5,"wasteType":"Plastic"},"message":"Submission successful!"}
+[00:27:24.043] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.36,"date":"2025-12-09","energyKWh":5200,"id":"sub-1765299914744","lga":"Lagos Mainland","pspOperator":"EcoWaste Management","tons":8,"wasteType":"Inert"},"message":"Submission successful!"}
+[00:27:24.043] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.896,"date":"2025-12-09","energyKWh":12220,"id":"sub-1765299914757","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:27:30.035] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"}}
+[00:27:30.035] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"}
+[00:27:30.035] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.78,"date":"2025-12-09","energyKWh":5850,"id":"sub-1765299920732","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:27:36.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"}}
+[00:27:36.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"}
+[00:27:36.038] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"}}
+[00:27:36.038] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"}
+[00:27:36.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.896,"date":"2025-12-09","energyKWh":12220,"id":"sub-1765299926736","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:27:36.038] Browser LOG     Submission successful, received: {"data":{"carbonCredits":7.896,"date":"2025-12-09","energyKWh":12220,"id":"sub-1765299926756","lga":"Eti-Osa","pspOperator":"EcoWaste Management","tons":18.8,"wasteType":"Mixed"},"message":"Submission successful!"}
+[00:27:48.886] Browser LOG     {"payload":{"date":"2025-12-09","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"}}
+[00:27:48.886] Browser LOG     Attempting to submit data: {"date":"2025-12-09","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"}
+[00:27:49.135] Browser LOG     Submission successful, received: {"data":{"carbonCredits":3.78,"date":"2025-12-09","energyKWh":5850,"id":"sub-1765299940540","lga":"Oshodi-Isolo","pspOperator":"GreenCity Collectors","tons":9,"wasteType":"Mixed"},"message":"Submission successful!"}

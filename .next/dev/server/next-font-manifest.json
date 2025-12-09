@@ -1,0 +1,19 @@
+{
+  "app": {
+    "[project]/waste-to-energy-dashboard (2)/app/login/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/248e1dc0efc99276-s.p.8a6b2436.woff2"
+    ],
+    "[project]/waste-to-energy-dashboard (2)/app/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/248e1dc0efc99276-s.p.8a6b2436.woff2"
+    ],
+    "[project]/waste-to-energy-dashboard (2)/app/submit/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/248e1dc0efc99276-s.p.8a6b2436.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

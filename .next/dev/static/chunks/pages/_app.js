@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_app", [
+  "static/chunks/c394e_next_dist_compiled_ef9de152._.js",
+  "static/chunks/c394e_next_dist_shared_lib_18c486d0._.js",
+  "static/chunks/c394e_next_dist_client_af9d6001._.js",
+  "static/chunks/c394e_next_dist_144c5b93._.js",
+  "static/chunks/c394e_next_app_9f3dd0b9.js",
+  "static/chunks/[next]_entry_page-loader_ts_6c013cb8._.js",
+  "static/chunks/445b2_react-dom_403ca5ac._.js",
+  "static/chunks/ab2eb__pnpm_9708294d._.js",
+  "static/chunks/[root-of-the-server]__2c125164._.js",
+  "static/chunks/waste-to-energy-dashboard (2)_pages__app_2da965e7._.js",
+  "static/chunks/turbopack-waste-to-energy-dashboard (2)_pages__app_415369f1._.js"
+])
